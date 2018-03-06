@@ -37,7 +37,7 @@ class ATM:
 
                 elif request < 5:
                     print("give " + str(request))
-                request = 0
+                    request = 0
            
             return ""
 
